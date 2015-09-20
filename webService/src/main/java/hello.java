@@ -1,4 +1,3 @@
-package main.java;
 
 /**
  * Created by Hansel Chong on 9/19/2015.

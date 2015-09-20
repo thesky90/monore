@@ -22,11 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="webService" />
+        <module name="monore-webService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="webService" target="1.5" />
+      <module name="monore" target="1.5" />
+      <module name="monore-webService" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

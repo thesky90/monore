@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/monore.git.iml" filepath="$PROJECT_DIR$/monore.git.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webService/webService.iml" filepath="$PROJECT_DIR$/webService/webService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monore.iml" filepath="$PROJECT_DIR$/monore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webService/monore-webService.iml" filepath="$PROJECT_DIR$/webService/monore-webService.iml" />
     </modules>
   </component>
 </project>

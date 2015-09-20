@@ -3,4 +3,5 @@
     <groupId>com.monore</groupId>
     <artifactId>monore</artifactId>
     <version>0.0.1</version>
+    <packaging>pom</packaging>
 </project>
